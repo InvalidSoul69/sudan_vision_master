@@ -1,0 +1,4 @@
+# Cookie File by sami sideg
+# This file format is compatible with Netscape cookies
+TRUE/FALSE	1999999999	TS017104ba
+
