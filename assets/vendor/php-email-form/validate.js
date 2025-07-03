@@ -49,6 +49,16 @@
     });
   });
 
+  /**
+   * Submits a form asynchronously using the Fetch API and handles the response.
+   *
+   * @param {HTMLFormElement} thisForm - The form element being submitted.
+   * @param {string} action - The URL to which the form data should be submitted.
+   * @param {FormData} formData - The form data to be sent in the request body.
+   * @returns {void}
+   *
+   * @throws {Error} Throws an error if the response is not OK or if the server returns an error message.
+   */
   function php_email_form_submit(thisForm, action, formData) {
     fetch(action, {
       method: 'POST',
