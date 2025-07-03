@@ -1,8 +1,7 @@
 /**
-* Template Name: Anyar - v4.7.1
-* Template URL: https://bootstrapmade.com/anyar-free-multipurpose-one-page-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* dist: sudan_vison_master - v1.7.1
+ * Author: Sami Sideg
+ * License: MIT licence
 */
 (function() {
   "use strict";

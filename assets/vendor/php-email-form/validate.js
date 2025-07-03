@@ -1,7 +1,7 @@
 /**
-* PHP Email Form Validation - v3.2
-* URL: https://bootstrapmade.com/php-email-form/
-* Author: BootstrapMade.com
+* dist: sudan_vison_master - v1.7.1
+ * Author: Sami Sideg
+ * License: MIT licence
 */
 (function () {
   "use strict";
