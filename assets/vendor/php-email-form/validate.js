@@ -83,7 +83,7 @@
     })
     .catch((error) => {
       displayError(thisForm, error);
-    });
+    }); jhj
   }
 
   function displayError(thisForm, error) {
